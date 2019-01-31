@@ -9,10 +9,13 @@
 
 
 # OUCDB组成
-## OU编年史
-## OU部门资料库
-## OU单位资料库
-## OU事件资料库
+OU编年史
+
+OU部门资料库
+
+OU单位资料库
+
+OU事件资料库
 
 
 # 本资料库部分设定参考：
@@ -35,5 +38,7 @@ Supreme Commander 2
 # [固有结界科学化](https://www.ciweimao.com/reader/300121 "刺猬猫作者书栏")的部分著作与设定
 
 
-# 关于版权
-本资料库遵循 MIT协议
+# License
+MIT License
+
+Copyright (c) 2019 
