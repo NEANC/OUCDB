@@ -35,7 +35,8 @@ Supreme Commander：Forged Alliance
 
 Supreme Commander 2
 
-# [固有结界科学化](https://www.ciweimao.com/reader/300121 "刺猬猫作者书栏")的部分著作与设定
+## 其他作者部分著作与设定
+[固有结界科学化](https://www.ciweimao.com/reader/300121 "刺猬猫作者书栏")
 
 
 # License
