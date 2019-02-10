@@ -3,7 +3,7 @@
 ![](https://github.com/NEANC/OUCDB/blob/master/%E5%8D%95%E4%BD%8D%E8%AE%BE%E5%AE%9A%E9%9B%86/%E6%97%A7%E6%97%B6%E4%BB%A3/%E5%9C%B0%E9%9D%A2/%E5%9B%BE%E5%BA%93/DCV-86%E5%9E%8B%20%E8%BF%90%E8%BD%BD%E8%88%B0.png "DVC-86型运载舰 平面图")
 
 #### 长:宽:高=380：188：86
-#### 质量：26WT
+#### 质量：2600000t
 
 # 动力系统
 四套功率80MW冷聚变反应炉（总功率320MW，燃料消耗：10T级DT[氘氚]固体燃料棒×4/16个月）
