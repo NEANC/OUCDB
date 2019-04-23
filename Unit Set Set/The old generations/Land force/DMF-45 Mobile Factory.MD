@@ -1,6 +1,6 @@
 # DMF-45型 机动工厂 代号：胖墩
 
-![DMF-45型 机动工厂 侧视图](https://github.com/NEANC/OUCDB/blob/master/%E5%8D%95%E4%BD%8D%E8%AE%BE%E5%AE%9A%E9%9B%86/%E6%97%A7%E4%B8%96%E4%BB%A3/%E5%9C%B0%E9%9D%A2/img/DMF-45.jpg)
+![DMF-45型 机动工厂 侧视图](./img/DMF-45.jpg)
 
 **长:宽:高=400：200：88**
 
