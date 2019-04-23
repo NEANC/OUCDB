@@ -1,6 +1,6 @@
 # DVC-86型 运载舰/陆地机动航空母舰
 
-![DVC-86型运载舰 平面图](https://github.com/NEANC/OUCDB/blob/master/%E5%8D%95%E4%BD%8D%E8%AE%BE%E5%AE%9A%E9%9B%86/%E6%97%A7%E4%B8%96%E4%BB%A3/%E5%9C%B0%E9%9D%A2/img/DCV-86.png)
+![DVC-86型运载舰 平面图](./img/DCV-86.png)
 
 #### 长:宽:高=380：188：86
 **质量：390000t**
