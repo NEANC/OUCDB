@@ -5,6 +5,7 @@
     最高执行官阁下，欢迎登入......
     正在载入界面.....
 
+
 ## OUCDB组成
 OU编年史
 
@@ -34,9 +35,6 @@ Supreme Commander：Forged Alliance
 
 Supreme Commander 2
 
-**其他作者部分著作与设定**
-
-[固有结界科学化](https://www.ciweimao.com/reader/300121 "刺猬猫作者书栏")
 
 ## License
 The content of this project itself is licensed under the [Creative Commons Attribution Share Alike 4.0 International](https://choosealicense.com/licenses/cc-by-sa-4.0/), and the underlying source code used to format and display that content is licensed under the [MIT license](LICENSE.md).
