@@ -6,10 +6,10 @@
     正在载入界面.....
 
 ## OU全称
-Oriental Deeply Unified Cooperation Sector  
-东方深度统一的合作部门  
+Oriental Unified Cooperation Sector
+东方统一合作部门
 
-**简称为**Oriental Union / OU / ODUCS
+**简称为**OU / OUCS
 
 ## OUCDB组成
 OU编年史
