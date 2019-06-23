@@ -12,13 +12,15 @@ Oriental Unified Cooperation Sector
 **简称为**OU / OUCS
 
 ## OUCDB组成
-OU编年史
+OU高度解密编年史
 
 OU部门资料库
 
-OU单位资料库
+OU核心技术资料库
 
-OU事件资料库
+OU单位技术资料库
+
+OU加密事件资料库
 
 
 ## 本资料库部分设定参考：
@@ -42,7 +44,7 @@ Supreme Commander 2
 
 **其他作者部分著作与设定**	 
 
- [固有结界科学化](https://www.ciweimao.com/reader/300121 "刺猬猫作者书栏")
+ [固有结界科学化](https://www.ciweimao.com/reader/300121 "作者的书栏")
 
 ## License
 The content of this project itself is licensed under the [Creative Commons Attribution Share Alike 4.0 International](https://choosealicense.com/licenses/cc-by-sa-4.0/), and the underlying source code used to format and display that content is licensed under the [MIT license](LICENSE.md).
