@@ -10,9 +10,9 @@
 Oriental Unified Cooperation Sector  
 东方统一合作部门
 
-**简称为**OU / OUCS
+**简称为**OUCS
 
-**另称为**Oriental United / 东方联合 / 东联 
+**另称为**Oriental United / OU / 东方联合 / 东联 
 
 ## OUCDB组成
 OU高度解密编年史
