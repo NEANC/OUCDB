@@ -8,7 +8,7 @@
 Oriental Unified Cooperation Sector  
 东方统一合作部门
 
-**另称为**Oriental United / OU / 东方联合 / 东联 
+**代称为**OUCS Inc. / OU / 东方联合集团 / 东联 
 
 ## OUCDB组成
 编年史
