@@ -1,8 +1,7 @@
     正在初始化......
     正在验证用户权限......
-    你好新人，欢迎登入......
-    正在载入界面.....
-    欢迎访问,OUCDB.....
+    你好新人，欢迎访问：
+         OUCDB
 
 
 ## OUCS//东方联合
@@ -19,6 +18,7 @@ Oriental Unified Cooperation Sector
 事件资料库
 
 技术资料库
+
 
 # License
 
