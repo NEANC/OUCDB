@@ -1,6 +1,6 @@
     正在初始化......
     正在验证用户权限......
-    你好新人，欢迎访问：
+    您好阁下，欢迎访问：
          OUCDB
 
 
@@ -24,7 +24,7 @@ Oriental Unified Cooperation Sector
 # License
 
 **Chinese**  
-本项目本身的内容是根据[Creative Commons Attribution Share Alike 4.0 International](https://choosealicense.com/licenses/cc-by-sa-4.0/)授权的，用于格式化与显示该内容的基础源代码是根据[MIT license](LICENSE.md)授权的。
+本项目内容是根据[Creative Commons Attribution Share Alike 4.0 International](https://choosealicense.com/licenses/cc-by-sa-4.0/)授权的，用于格式化与显示该内容的源代码是根据[MIT license](LICENSE.md)授权的。
 
 **English**  
 The content of this project itself is licensed under the [Creative Commons Attribution Share Alike 4.0 International](https://choosealicense.com/licenses/cc-by-sa-4.0/), and the underlying source code used to format and display that content is licensed under the [MIT license](LICENSE.md).
