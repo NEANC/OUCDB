@@ -13,10 +13,11 @@ Homeworld:Deserts of Kharak
 
 Supreme Commander 1
 
-Supreme Commander：Forged Alliance
+Supreme Commander:Forged Alliance
 
 Supreme Commander 2
 
 **其他作者部分著作与设定**	 
 
  [固有结界科学化](https://www.ciweimao.com/reader/300121 "作者的书栏")
+

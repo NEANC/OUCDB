@@ -1,4 +1,4 @@
-## Logistics and Supervise Team//后勤与监管小组
+# Logistics and Supervise Team / 后勤与监管小组
 
-LST负责IT的选拔，后勤，战术支援，审查IT的战术规划，~~以及避免IT叛逃~~
+LST 负责 IT 的选拔，后勤，支援，~~以及避免IT叛逃~~
 
