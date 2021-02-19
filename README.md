@@ -6,7 +6,7 @@
 ## OUCS // 东方联合
 
 Oriental Unified Cooperation Sector  
-东方统一合作部门
+东方联合统一合作部门
 
 **代称为**OUCS Inc. / OU / 东方联合集团 / 东联 
 

@@ -11,9 +11,12 @@
 利剑协议：战区协议衍生协议，战略武器许可
 重构协议：奇美拉协议核心协议，允许组建避难所 / 军事哨所 / 重组文明
 
+Strategic Homeland Centre **国土战略总局**
 
+Strategic Homeland Intervention and Logistics Division **神盾局**
 
     我们永远不希望有用上它一天，如果使用了那说明我们已经危在旦夕。
                                       -- SAC：未来危机预演小组
-    当我们危在旦夕，那么我们将会挺身而出。
+    当世界分崩离析，我们将挺身而出。
+    When the society falls we will rise up.
                                       -- SHD 奇美拉执行单元

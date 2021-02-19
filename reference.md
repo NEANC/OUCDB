@@ -1,21 +1,30 @@
 ## 本资料库部分设定参考：
-**Homeworld 系列：**
 
-Homeworld 1
+**Act of Aggression**
 
-Homeworld 2
+**Ashes of the Singularity : Escalation**
 
-Homeworld:Deserts of Kharak
+**Stellaris**
+
+**Supreme Commander 系列 ：**  
+Supreme Commander 1  
+Supreme Commander : Forged Alliance  
+Supreme Commander 2
+
+**Tom Clancy’s The Division™**
+
+**Watch Dogs 系列 :**   
+Watch Dogs  
+Watch Dogs 2
 
 **EVE Online**
 
-**Supreme Commander 系列：**
+**Homeworld 系列：**  
+Homeworld 1  
+Homeworld 2  
+Homeworld:Deserts of Kharak
 
-Supreme Commander 1
-
-Supreme Commander:Forged Alliance
-
-Supreme Commander 2
+**Rusted Warfare**
 
 **其他作者部分著作与设定**	 
 
