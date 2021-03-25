@@ -20,8 +20,15 @@ Oriental Unified Cooperation Sector
 
 技术资料库
 
-
 # License
+
+## 约定
+
+本库处于初建立与草稿结合的状态，本版本迭代主要进行构架建立与初步背景描绘
+
+**请注意**本库处于**极度架空状态**，包括但不限于：**不遵守经典物理；不遵守人类共识意识形态；不遵守因果关系等**
+
+**~~请注意本库随时可能删库跑路~~**
 
 **Chinese**  
 本项目内容是根据[Creative Commons Attribution Share Alike 4.0 International](https://choosealicense.com/licenses/cc-by-sa-4.0/)授权的，用于格式化与显示该内容的源代码是根据[MIT license](LICENSE.md)授权的。
