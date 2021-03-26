@@ -1,10 +1,14 @@
-    正在初始化......
-    正在验证用户权限......
+    开始初始化......
+    正在搜索网络......
+    正在连接OUCS统一用户授权系统......
+    正在更新证书......
+    正在检验终端安全......
+    正在验证用户：****-****-****-****-****-****-****-****-****-****-****-****-****-****-****-****
+    正在载入GUI......
     您好阁下，欢迎访问：
          OUCDB
 
 ## OUCS // 东方联合
-
 Oriental Unified Cooperation Sector  
 东方联合统一合作部门
 
@@ -12,24 +16,20 @@ Oriental Unified Cooperation Sector
 
 ## OUCDB 组成
 
-编年史
+- [ ] 编年史
+- [x] [部门编制](./Department Compilation/README.md)
+- [ ] 事件资料库
+- [ ] [技术资料库 [WIP]](./Technical Database/README.md)
 
-部门编制
 
-事件资料库
+# 注意
+本库处于初建立与草稿结合的状态，本版本迭代主要进行构架建立与初步背景描绘，以及装备明细
 
-技术资料库
-
-# License
-
-## 约定
-
-本库处于初建立与草稿结合的状态，本版本迭代主要进行构架建立与初步背景描绘
-
-**请注意**本库处于**极度架空状态**，包括但不限于：**不遵守经典物理；不遵守人类共识意识形态；不遵守因果关系等**
+**请注意**本库处于**极度架空状态**，包括但不限于：**不遵守经典物理；不遵守人类共识意识形态；不遵守因果关系，WAAAAAAAAAAGH!，等**
 
 **~~请注意本库随时可能删库跑路~~**
 
+# License
 **Chinese**  
 本项目内容是根据[Creative Commons Attribution Share Alike 4.0 International](https://choosealicense.com/licenses/cc-by-sa-4.0/)授权的，用于格式化与显示该内容的源代码是根据[MIT license](LICENSE.md)授权的。
 
