@@ -15,10 +15,13 @@ Oriental Unified Cooperation Sector
 
 ## OUCDB 组成
 
-- [ ] 编年史
-- [ ] [部门编制「WIP」](/Department Compilation/README.md)
-- [ ] 事件资料库
-- [ ] [技术资料库「WIP」](/Technical Database/README.md)
+编年史「Plan」
+
+[部门编制「WIP」](./DepartmentCompilation/README.md)
+
+事件资料库「Plan」
+
+[技术资料库「WIP」](./TechnicalDatabase/README.md)
 
 # 注意
 
