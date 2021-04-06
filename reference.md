@@ -2,7 +2,7 @@
 
 **Act of Aggression**
 
-**Ashes of the Singularity : Escalation**
+**Ashes of the Singularity**
 
 **Stellaris**
 
@@ -11,7 +11,9 @@ Supreme Commander 1
 Supreme Commander : Forged Alliance  
 Supreme Commander 2
 
-**Tom Clancy’s The Division™**
+**Tom Clancy’s The Division 系列 ：  **  
+ Tom Clancy’s The Division   
+ Tom Clancy’s The Division 2
 
 **Watch Dogs 系列 :**   
 Watch Dogs  
