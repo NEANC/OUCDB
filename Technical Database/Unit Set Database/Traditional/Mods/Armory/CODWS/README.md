@@ -1,3 +1,3 @@
-# OUCS 单位设定集 - 传统型 - 模块标准化 - 武器库 - 复合型进攻-防御武器系统 / Compound Offense-Defense Weapon System
+# 技术资料库 - 单位设定集 - 传统型 - 标准化模块 - 武器库 - 复合型进攻-防御武器系统 / Compound Offense-Defense Weapon System
 
 复合型武器系统/平台的集合；集成了传感/火控系统、单到多个武器系统、数据链等的武器系统 / 平台.

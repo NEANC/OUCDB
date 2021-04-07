@@ -1,4 +1,4 @@
-# Supreme Court Center / 最高法院
+# 最高法院 / Supreme Court Center
 
 SCC 负责编写和维护 OUCS 法律，与(内部)其他国家 / 地区建立法律协定，以及最高等法律判决；  
 SCC 是 OUCS 与其他区域联盟的不同之一。

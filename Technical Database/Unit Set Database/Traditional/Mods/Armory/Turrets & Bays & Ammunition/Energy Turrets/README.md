@@ -1,3 +1,3 @@
-## Energy Turrets / 能量武器
+# 能量武器 / Energy Turrets
 
 激光与离子，粒子，声波等**定向能量武器**的集合，包括定向EMP武器，疾速炮。

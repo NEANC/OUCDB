@@ -1,4 +1,4 @@
-# Promote and Promise Committee / 协约理事会
+# 协约理事会 / Promote and Promise Committee
 
 PPC 由5个常任理事国代理人组成，理事会主要任务是监管 OUCS，对提案提出质疑，对重大决策的表决，当然理事会不能直接影响 OUCS 的正常运行。
 
