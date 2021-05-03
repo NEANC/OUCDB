@@ -1,8 +1,8 @@
     「注意」正在初始化
     「注意」正在连接OUCS统一用户授权与权限验证系统
-    「注意」正在确认用户：****-****-****-****-****-****-****-****-****-****-****-****-****-****-****-****
+    「注意」正在验证用户：****-****-****-****-****-****-****-****-****-****-****-****-****-****-****-****
     「注意」正在验证授权与权限
-    「注意」正在构建监视器
+    「注意」正在验证安全模块
     「注意」正在载入GUI
     「完成」您好阁下，欢迎访问：OUCDB
 
@@ -23,7 +23,8 @@
 **~~请注意本库随时可能删库跑路~~**
 
 ## 约定
-### 排版参考
+
+### 参考
 
 - [中文文案排版指北](https://github.com/sparanoid/chinese-copywriting-guidelines/blob/master/README.zh-CN.md)
 - [中文技术文档的写作规范](https://github.com/ruanyf/document-style-guide)
@@ -31,8 +32,8 @@
 ### 语法与软件
 
 - [GFM](https://github.github.com/gfm "Github Flavored Markdown语法标准")
-- 本地写作软件 [Typora](https://typora.io/)
-- 与GitHub交互更新软件 [GitHub Desktop](https://desktop.github.com)
+- [Typora](https://typora.io/)
+- [GitHub Desktop](https://desktop.github.com)
 
 ## License
 
