@@ -19,6 +19,10 @@ Supreme Commander 2
 Watch Dogs  
 Watch Dogs 2
 
+**Titanfall 系列：**  
+Titanfall  
+Titanfall 2
+
 **EVE Online**
 
 **Homeworld 系列：**  
@@ -28,7 +32,7 @@ Homeworld:Deserts of Kharak
 
 **Rusted Warfare**
 
-——–
+------
 
 **其他作者部分著作与设定**	 
 
