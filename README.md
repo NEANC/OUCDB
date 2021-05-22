@@ -18,8 +18,8 @@
 - [技术资料库「WIP」](./TechnicalDatabase/README.md)
 
 # 注意
-本库处于初建立与草稿结合的状态，本版本迭代主要进行构架建立与初步背景描绘，以及装备明细等细节部分
-**请注意**本库处于**极度架空状态**，包括但不限于：**不遵守经典物理；不遵守人类共识意识形态；不遵守因果关系，WAAAAAAAAAAGH!，等**
+本库处于初建立与草稿结合的状态，本版本迭代主要进行构架建立与初步背景描绘，以及装备明细等细节部分  
+**请注意** 本库处于 **极度架空状态**，包括但不限于：**不遵守经典物理；不遵守人类共识意识形态；不遵守因果关系，WAAAAAAAAAAGH!，等**  
 **~~请注意本库随时可能删库跑路~~**
 
 ## 约定
@@ -29,10 +29,11 @@
 - [中文文案排版指北](https://github.com/sparanoid/chinese-copywriting-guidelines/blob/master/README.zh-CN.md)
 - [中文技术文档的写作规范](https://github.com/ruanyf/document-style-guide)
 - [Github Flavored Markdown语法介绍](https://github.com/guodongxiaren/README "README文件语法解读，即Github Flavored Markdown语法介绍")
+
 ### 语法与软件
 
 - [GFM](https://github.github.com/gfm "Github Flavored Markdown语法标准")
-- [Typora](https://typora.io/)
+- [Typora](https://typora.io/ "写作软件")
 - [GitHub Desktop](https://desktop.github.com)
 
 ## License
