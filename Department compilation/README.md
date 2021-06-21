@@ -4,8 +4,23 @@
 
 >内政
 >>最高行政部 (SAC)，最高法院 (SCC)，协约理事会 (PPC)
->>>星际探索与监管部 Interstellar / Deep Space Exploration and Discovery and Supervision Department，商业监督与管理委员会，星际安全部，星际共济会
+>>>星际探索与监管部，商业监督与管理委员会，星际安全部，星际共济会
 >>>> 克隆飞行员监管与合作署，星际刑事警察组织，泛星际交通与通信委员会
+
+星际探索与监管部 Interstellar / Deep Space Exploration and Discovery and Supervision Departmen
+
+直属SAC的特殊勤务部门
+
+>星际安全部 特勤总局
+>>生化处理署，国家安全署，特勤局
+>>>黑色守望(BW),国土战略局(S.H.D.),神盾局(S.H.I.L.D.)
+
+Black Watch  **黑色守望**
+
+Strategic Homeworld Division  **国家战略局**
+
+Search Homeworld Intervene,Enforcement and Logistics Division  **国家搜索、介入、执法与后勤保障局——神盾局**
+
 
 
 实际上，在天堂之战前 OUCS 的所有的人员、武装以及维护均由理事会负责，直到第三次天堂危机中 OUCS 才真正的拥有自己的武装。
@@ -15,12 +30,6 @@
 >>>中央参谋部 (CSC)
 >>>>后勤与监管小组 (LST)
 >>>>>执行团队 (ET)
-
-直属SAC的特殊勤务部门
-
->特别行政部
->>
->>>
 
 
 
