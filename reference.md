@@ -35,5 +35,5 @@
 ------
 
 **其他作者部分著作与设定**
-   [固有结界科学化](https://www.ciweimao.com/reader/300121 "作者的书栏")
+   [固有结界科学化](https://www.ciweimao.com/reader/300121 "作者的书栏") 的星盟世界观
 
