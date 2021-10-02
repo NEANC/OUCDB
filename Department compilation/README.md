@@ -4,11 +4,12 @@
 
 >内政
 >>最高行政部 (SAC)，最高法院 (SCC)，协约理事会 (PPC)
->>>星际探索与监管部(EDSD)，商业监督与管理委员会(SMC)，星际安全部(DED)，星际共济会(MRE)
+>>>星际探索与监管部(EDSD)，商业监督与管理委员会(IMC)，星际安全部(DED)，星际共济会(MRE)
+>>>
 >>>> 星际快捷运输委员会(IB)，星际刑事警察组织(ICPO)，泛星际交通与通信委员会(ITCO)
 
 星际探索与监管部 Interstellar & Deep-Space Exploration and Discovery and Supervision Division  
-商业监督与管理委员会 Supervision & Management Commerce Commission  
+商业监督与管理委员会 Interstellar Supervision & Management Commerce Commission  
 星际安全部 Deep-Space Edge & Interstellar Security Enforcement Division  
 星际共济会 Interstellar Mutual Relief Enforcement Office  
 星际快捷运输委员会 The InterBus  
@@ -45,8 +46,9 @@ Strategic Homeworld Intervene Enforcement and Logistics Division  **国家战略
 
 >军事
 >>最高指挥部 (SSCC)
+>>
 >>>中央参谋部 (CSC)
->>>
+>
 >>>>后勤与监管小组 (LST)
 >
 >>>>>执行团队 (DET)
