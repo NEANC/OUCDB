@@ -1,4 +1,4 @@
-# 标枪 / DFJ-1200C Darts PDS-CIWS
+# 标枪 / DFJ-1000C Darts PDS-CIWS
 
 ## 武装
 
