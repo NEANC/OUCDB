@@ -64,7 +64,9 @@ OTPE-13 B 型 130mm 双管磁轨炮
 
 ### OTPE-36 X 型 368mm X管磁轨炮
 
+OTPE-36 B 型 368mm 双管磁轨炮
 
+OTPE-36 C 型 368mm 三管磁轨炮
 
 ### OTPE-41 X 型 416mm X管磁轨炮 
 
