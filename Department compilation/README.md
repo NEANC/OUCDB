@@ -59,6 +59,8 @@
 星际刑事警察组织 / Interstellar Criminal Police Organization  
 星际矿业联合体  /  
 
+泛星际贸易联盟
+
 ----
 
 星际刑事警察组织  
