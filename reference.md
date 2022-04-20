@@ -11,11 +11,11 @@
   Supreme Commander : Forged Alliance  
   Supreme Commander 2
 
-**Tom Clancy’s The Division 系列 ：  **SHD  
+**Tom Clancy’s The Division 系列 ：  **SHD-奇美拉星球单位  
  Tom Clancy’s The Division   
  Tom Clancy’s The Division 2
 
-**Watch Dogs 系列 :** ctOS  
+**Watch Dogs 系列 :** ctOS星域资源综合协调管理系统  
   Watch Dogs  
   Watch Dogs 2
 
@@ -24,6 +24,8 @@
   Titanfall 2
 
 **EVE Online** 飞船与空间设定
+
+**HALO 系列** 硬光技术与奇美拉轨道星球单位  
 
 **Homeworld 系列：** 超时空技术与奇美拉星球单位  
   Homeworld 1  
