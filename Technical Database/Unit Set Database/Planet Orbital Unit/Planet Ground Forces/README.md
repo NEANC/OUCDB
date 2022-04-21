@@ -11,11 +11,11 @@
 > > > >
 > > > > > 机动工厂 / 运载舰
 
-- [2×3 轮式车族](./2x3 Multipurpose APC Family.MD)  
-- [4×4 轮式/履带式车族](./4x4 Multipurpose IFV or AFV Family.md)
-- [陆地巡洋舰](./DCC-12 Multipurpose Land Cruiser.md)
-- [陆地战列舰](./DBB-22 Land Battleship.MD) / [陆地航空母舰](./DCV-66 Land Aircraft Carrier.MD)
-- [机动工厂](./DMF-45 Mobile Factory.MD) / [运载舰](./DCVH-33 Strategic Aircraft Carrier.MD)
+[2×3 轮式车族](./2x3 Multipurpose APC Family.MD) 
+[4×4 轮式/履带式车族](./4x4 Multipurpose IFV or AFV Family.md)
+[陆地巡洋舰](./DCC-12 Multipurpose Land Cruiser.md)
+[陆地战列舰](./DBB-22 Land Battleship.MD) / [陆地航空母舰](./DCV-66 Land Aircraft Carrier.MD)
+[机动工厂](./DMF-45 Mobile Factory.MD) / [运载舰](./DCVH-33 Strategic Aircraft Carrier.MD)
 
 
 ### 特殊
