@@ -13,9 +13,9 @@
 # OUCDB 组成
 
 - 编年史「Plan」
-- [部门编制「WIP」](./DepartmentCompilation/README.md)
+- [部门编制「WIP」](./Department Compilation/README.md)
 - 事件资料库「Plan」
-- [技术资料库「WIP」](./TechnicalDatabase/README.md)
+- [技术资料库「WIP」](./Technical Database/README.md)
 
 # 注意
 本库处于初建立与草稿结合的状态，本版本迭代主要进行构架建立与初步背景描绘，以及装备明细等细节部分  
