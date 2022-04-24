@@ -12,22 +12,25 @@
 
 **代称为** 东方联合 / 东方联合集团 / 东联「OUCS / OUCS Inc. / OU」
 
-# OUCDB 组成
+## OUCDB 组成
 
 - 编年史「Plan」
 - 部门编制「WIP」
 - 事件资料库「Plan」
 - 技术资料库「WIP」
 
-# 注意
+## 注意
 
-本库处于初建立与草稿结合的状态，本版本迭代主要进行构架建立与初步背景描绘，以及装备明细等细节部分  
-**请注意** 本库处于 **极度架空状态**，包括但不限于：**不遵守经典物理；不遵守人类共识意识形态；不遵守因果关系，WAAAAAAAAAAGH!，等**  
+- [![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)](https://github.com/prettier/prettier)
+  - 本库彻底遵循 Prettier 的自动格式化
+    - Markdownlint 的格式化标准仅作为参考
+
+本库处于初建立与草稿结合的状态，本版本迭代主要进行构架建立与初步背景描绘，以及装备明细等细节部分；  
+ **请注意** 本库处于 **极度架空状态**，包括但不限于：**不遵守经典物理；不遵守人类共识意识形态；不遵守因果关系，WAAAAAAAAAAGH!，等**
+
 **~~请注意本库随时可能删库跑路~~**
 
 ## 约定
-
-[![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)](https://github.com/prettier/prettier)
 
 ### 参考
 
@@ -38,8 +41,11 @@
 ### 语法与软件
 
 - [GFM](https://github.github.com/gfm "Github Flavored Markdown语法标准")
-- [Typora](https://typora.io/ "写作软件")
 - [GitHub Desktop](https://desktop.github.com)
+- [VS Code](https://code.visualstudio.com/)
+  - [Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one "VS Code扩展 用于在VS Code中实时渲染Markdown")
+  - [Markdownlint](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint "VS Code扩展 用于写作时的参考格式化")
+  - [Prettier - Code formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode "VS Code扩展 用于自动格式化")
 
 ## License
 
