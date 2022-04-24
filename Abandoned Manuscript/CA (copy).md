@@ -54,9 +54,9 @@ Strategic Homeland Intervention and Logistics Division **神盾局**
 「注意」超时空模块脱机
 ```
 
-##
-
+```text
     当世界分崩离析，我们将挺身而出。 // When the society falls we will rise up.
                                       -- SHD - 奇美拉执行单元
     我们永远不希望有用上它一天，如果使用了那说明我们已经危在旦夕。
                                       -- SAC - 未来危机预演小组
+```

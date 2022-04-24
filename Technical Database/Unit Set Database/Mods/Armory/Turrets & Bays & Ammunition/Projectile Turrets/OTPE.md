@@ -16,23 +16,19 @@ Y 炮管数
 
 ### OTPE-01 X 型 15mm X 管磁轨机枪
 
-OTPE-01 C 型 15mm 三管加特林机枪
-
-OTPE-01 O 型 15mm 六管加特林机枪
+- OTPE-01 C 型 15mm 三管加特林机枪
+- OTPE-01 O 型 15mm 六管加特林机枪
 
 ### OTPE-03 X 型 30mm X 管磁轨机炮
 
-OTPE-03 A 型 30mm 单管磁轨机炮
-
-OTPE-03 B 型 30mm 双管磁轨机炮
-
-OTPE-03 C 型 30mm 三管加特林机枪
-
-OTPE-03 K 型 30mm 十一管加特林机炮
+- OTPE-03 A 型 30mm 单管磁轨机炮
+- OTPE-03 B 型 30mm 双管磁轨机炮
+- OTPE-03 C 型 30mm 三管加特林机枪
+- OTPE-03 K 型 30mm 十一管加特林机炮
 
 ### OTPE-04 X 型 40mm X 管磁轨炮
 
-OTPE-04 A 型 40mm 单管磁轨炮
+- OTPE-04 A 型 40mm 单管磁轨炮
 
 ### OTPE-06 X 型 66mm X 管磁轨炮
 
@@ -40,27 +36,23 @@ OTPE-04 A 型 40mm 单管磁轨炮
 
 ### OTPE-08 X 型 88mm X 管磁轨炮
 
-OTPE-08 B 型 88mm 双管磁轨炮
+- OTPE-08 B 型 88mm 双管磁轨炮
 
 ### OTPE-10 X 型 108mm X 管磁轨炮
 
-OTPE-10 A 型 108mm 单管磁轨炮
-
-OTPE-10 B 型 108mm 双管磁轨炮
+- OTPE-10 A 型 108mm 单管磁轨炮
+- OTPE-10 B 型 108mm 双管磁轨炮
 
 ### OTPE-13 X 型 130mm X 管磁轨炮
 
-OTPE-13 A 型 130mm 单管磁轨炮
-
-OTPE-13 B 型 130mm 双管磁轨炮
+- OTPE-13 A 型 130mm 单管磁轨炮
+- OTPE-13 B 型 130mm 双管磁轨炮
 
 ### OTPE-36 X 型 368mm X 管磁轨炮
 
-OTPE-36 A 型 368mm 单管磁轨炮
-
-OTPE-36 B 型 368mm 双管磁轨炮
-
-OTPE-36 C 型 368mm 三管磁轨炮
+- OTPE-36 A 型 368mm 单管磁轨炮
+- OTPE-36 B 型 368mm 双管磁轨炮
+- OTPE-36 C 型 368mm 三管磁轨炮
 
 ### OTPE-41 X 型 416mm X 管磁轨炮
 
@@ -68,7 +60,7 @@ OTPE-36 C 型 368mm 三管磁轨炮
 
 ### OTPE-80 X 型 808mm X 管磁轨炮
 
-OTPE-80 O 型 808mm 三管磁轨炮
+- OTPE-80 O 型 808mm 三管磁轨炮
 
 ### OTPE-1K X 型 1000mm X 管磁轨炮
 

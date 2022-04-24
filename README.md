@@ -1,3 +1,4 @@
+```text
     「注意」正在初始化
     「注意」正在连接OUCS统一用户授权与权限验证系统
     「注意」正在验证用户：****-****-****-****-****-****-****-****-****-****-****-****-****-****-****-****
@@ -5,6 +6,7 @@
     「注意」正在验证安全模块
     「注意」正在载入GUI
     「完成」您好阁下，欢迎访问：OUCDB
+```
 
 # 东方联合统一合作部门 / Oriental Unified Cooperation Sector
 
@@ -25,9 +27,9 @@
 
 ## 约定
 
-### 参考
-
 [![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)](https://github.com/prettier/prettier)
+
+### 参考
 
 - [中文文案排版指北](https://github.com/sparanoid/chinese-copywriting-guidelines/blob/master/README.zh-CN.md)
 - [中文技术文档的写作规范](https://github.com/ruanyf/document-style-guide)

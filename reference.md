@@ -1,4 +1,4 @@
-## 本资料库部分设定参考：
+# 本资料库部分设定参考
 
 **Act of Aggression** 奇美拉
 
@@ -11,7 +11,7 @@
  Supreme Commander : Forged Alliance  
  Supreme Commander 2
 
-**Tom Clancy’s The Division 系列 ： **SHD-奇美拉星球单位  
+**Tom Clancy’s The Division 系列 ：** SHD-奇美拉星球单位  
  Tom Clancy’s The Division  
  Tom Clancy’s The Division 2
 

@@ -88,9 +88,9 @@ Strategic Homeworld Intervene Enforcement and Logistics Division **国家战略�
 > > 最高指挥部 (SSCC)
 > >
 > > > 中央参谋部 (CSC)
->
+> > >
 > > > > 后勤与监管小组 (LST)
->
+> > > >
 > > > > > 执行团队 (DET)
 
 黑色行动 黯牙(Black Tusk)
