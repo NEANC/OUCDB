@@ -2,8 +2,8 @@
 
 基于 2x3 / 4x4 多用途底盘，携带辅助制造模块，装备 PDS-CIWS 武器系统，用于前线维修建设，或后方建设
 
-**底盘参数见：**  
-[兔狲 2×3 轮式 / 履带式 多用途 APC](./2x3%20Multipurpose%20APC%20Family.MD)  
+**底盘参数见：**
+[兔狲 2×3 轮式 / 履带式 多用途 APC](./2x3%20Multipurpose%20APC%20Family.MD)
 [狞猫 4×4 轮式 / 履带式 多用途 IFV/AFV](./4x4%20Multipurpose%20IFV%20or%20AFV%20Family.md)
 
 **注意：该型号下列参数全为可定义**
