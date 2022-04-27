@@ -1,59 +1,58 @@
-    正在初始化......
-    正在验证用户权限......
-    正在确认用户识别码：A6-0073-0400-0001......
-    最高执行官阁下，欢迎登入......
-    正在载入界面.....
-    欢迎访问,OU中央数据资料库.....
+```text
+    「注意」正在初始化
+    「注意」正在连接OUCS统一用户授权与权限验证系统
+    「注意」正在验证用户：****-****-****-****-****-****-****-****-****-****-****-****-****-****-****-****
+    「注意」正在验证授权与权限
+    「注意」正在验证安全模块
+    「注意」正在载入GUI
+    「完成」您好阁下，欢迎访问：OUCDB
+```
 
+# 东方联合统一合作部门 / Oriental Unified Cooperation Sector
 
-## OU全称
-Oriental Unified Cooperation Sector  
-东方统一合作部门
+**代称为** 东方联合 / 东方联合集团 / 东联「OUCS / OUCS Inc. / OU」
 
-**简称为**OUCS
+## OUCDB 组成
 
-**另称为**Oriental United / OU / 东方联合 / 东联 
+- 编年史「Plan」
+- 部门编制「WIP」
+- 事件资料库「Plan」
+- 技术资料库「WIP」
 
-## OUCDB组成
-OU高度解密编年史
+## 注意
 
-OU加密事件资料库
+- [![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)](https://github.com/prettier/prettier)
+  - 本库彻底遵循 Prettier 的自动格式化
+    - Markdownlint 的格式化标准仅作为参考
 
-OU核心技术资料库
+本库处于初建立与草稿结合的状态，本版本迭代主要进行构架建立与初步背景描绘，以及装备明细等细节部分；  
+ **请注意** 本库处于 **极度架空状态**，包括但不限于：**不遵守经典物理；不遵守人类共识意识形态；不遵守因果关系，WAAAAAAAAAAGH!，等**
 
-OU单位技术资料库
+**~~请注意本库随时可能删库跑路~~**
 
-OU部门资料库
+## 约定
 
+### 参考
 
-## 本资料库部分设定参考：
-**Homeworld 系列：**
+- [中文文案排版指北](https://github.com/sparanoid/chinese-copywriting-guidelines/blob/master/README.zh-CN.md)
+- [中文技术文档的写作规范](https://github.com/ruanyf/document-style-guide)
+- [Github Flavored Markdown 语法介绍](https://github.com/guodongxiaren/README "README文件语法解读，即Github Flavored Markdown语法介绍")
 
-Homeworld 1
+### 语法与软件
 
-Homeworld 2
+- [GFM](https://github.github.com/gfm "Github Flavored Markdown语法标准")
+- [GitHub Desktop](https://desktop.github.com)
+- [VS Code](https://code.visualstudio.com/)
+  - [Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one "VS Code扩展 用于在VS Code中实时渲染Markdown")
+  - [Markdownlint](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint "VS Code扩展 用于写作时的参考格式化")
+  - [Prettier - Code formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode "VS Code扩展 用于自动格式化")
 
-Homeworld:Deserts of Kharak
+## License
 
-**EVE Online**
+**简体中文**  
+本项目内容是根据[Creative Commons Attribution Share Alike 4.0 International](https://choosealicense.com/licenses/cc-by-sa-4.0/)授权的，用于格式化与显示该内容的源代码是根据[MIT license](LICENSE.md)授权的。
 
-**Supreme Commander 系列：**
-
-Supreme Commander 1
-
-Supreme Commander：Forged Alliance
-
-Supreme Commander 2
-
-**其他作者部分著作与设定**	 
-
- [固有结界科学化](https://www.ciweimao.com/reader/300121 "作者的书栏")
-
-
-# License
-
-**Chinese**  
-本项目本身的内容是根据[Creative Commons Attribution Share Alike 4.0 International](https://choosealicense.com/licenses/cc-by-sa-4.0/)授权的，用于格式化与显示该内容的基础源代码是根据[MIT license](LICENSE.md)授权的。
+---
 
 **English**  
 The content of this project itself is licensed under the [Creative Commons Attribution Share Alike 4.0 International](https://choosealicense.com/licenses/cc-by-sa-4.0/), and the underlying source code used to format and display that content is licensed under the [MIT license](LICENSE.md).
