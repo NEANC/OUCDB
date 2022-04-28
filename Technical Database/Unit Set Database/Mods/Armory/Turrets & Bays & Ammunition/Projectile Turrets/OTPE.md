@@ -40,6 +40,7 @@ Y 炮管数
 
 ### OTPE-08 X 型 88mm X 管磁轨炮
 
+- OTPE-08 A 型 88mm 单管磁轨炮
 - OTPE-08 B 型 88mm 双管磁轨炮
 
 ### OTPE-10 X 型 108mm X 管磁轨炮
