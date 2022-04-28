@@ -50,9 +50,9 @@
 ## License
 
 **简体中文**  
-本项目内容是根据[Creative Commons Attribution Share Alike 4.0 International](https://choosealicense.com/licenses/cc-by-sa-4.0/)授权的，用于格式化与显示该内容的源代码是根据[MIT license](LICENSE.md)授权的。
+本项目内容是根据[CC-BY-SA-4.0](https://choosealicense.com/licenses/cc-by-sa-4.0/ "Creative Commons Attribution Share Alike 4.0 International")授权的，用于格式化与显示该内容的源代码是根据[MIT license](LICENSE.md)授权的。
 
 ---
 
 **English**  
-The content of this project itself is licensed under the [Creative Commons Attribution Share Alike 4.0 International](https://choosealicense.com/licenses/cc-by-sa-4.0/), and the underlying source code used to format and display that content is licensed under the [MIT license](LICENSE.md).
+The content of this project itself is licensed under the [CC-BY-SA-4.0](https://choosealicense.com/licenses/cc-by-sa-4.0/ "Creative Commons Attribution Share Alike 4.0 International"), and the underlying source code used to format and display that content is licensed under the [MIT license](LICENSE.md).
