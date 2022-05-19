@@ -10,7 +10,9 @@
 
 # 东方联合统一合作部门 / Oriental Unified Cooperation Sector
 
-**代称为** 东方联合 / 东方联合集团 / 东联「OUCS / OUCS Inc. / OU」
+- **代称**
+  - 东方联合 / 东方联合集团 / 东联
+  - OUCS / OUCS Inc. / OU
 
 ## OUCDB 组成
 
@@ -36,23 +38,19 @@
 
 - [中文文案排版指北](https://github.com/sparanoid/chinese-copywriting-guidelines/blob/master/README.zh-CN.md)
 - [中文技术文档的写作规范](https://github.com/ruanyf/document-style-guide)
-- [Github Flavored Markdown 语法介绍](https://github.com/guodongxiaren/README "README文件语法解读，即Github Flavored Markdown语法介绍")
+- [Github Flavored Markdown 语法介绍](https://github.com/guodongxiaren/README "README 文件语法解读，即Github Flavored Markdown 语法介绍")
 
 ### 语法与软件
 
-- [GFM](https://github.github.com/gfm "Github Flavored Markdown语法标准")
 - [GitHub Desktop](https://desktop.github.com)
-- [VS Code](https://code.visualstudio.com/)
-  - [Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one "VS Code扩展 用于在VS Code中实时渲染Markdown")
+- [Github Flavored Markdown](https://github.github.com/gfm "Github Flavored Markdown 语法标准")
+
+- [Visual Studio Code](https://code.visualstudio.com/)
   - [Markdownlint](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint "VS Code扩展 用于写作时的参考格式化")
+  - [Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one "VS Code扩展 用于在VS Code中实时渲染Markdown")
   - [Prettier - Code formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode "VS Code扩展 用于自动格式化")
 
 ## License
 
-**简体中文**  
-本项目内容是根据[CC-BY-SA-4.0](https://choosealicense.com/licenses/cc-by-sa-4.0/ "Creative Commons Attribution Share Alike 4.0 International")授权的，用于格式化与显示该内容的源代码是根据[MIT license](LICENSE.md)授权的。
-
----
-
-**English**  
-The content of this project itself is licensed under the [CC-BY-SA-4.0](https://choosealicense.com/licenses/cc-by-sa-4.0/ "Creative Commons Attribution Share Alike 4.0 International"), and the underlying source code used to format and display that content is licensed under the [MIT license](LICENSE.md).
+[![CC-BY-ND-4.0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by-nd.svg)](https://creativecommons.org/licenses/by-nd/4.0/legalcode)
+本项目采用 [知识共享署名-禁止演绎 4.0 国际许可协议](https://creativecommons.org/licenses/by-nd/4.0/legalcode "CC-BY-ND-4.0") 进行许可。
