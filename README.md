@@ -55,6 +55,7 @@
 - [Visual Studio Code](https://code.visualstudio.com/)
   - [Markdownlint](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint "VS Code扩展 用于写作时的参考格式化")
   - [Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one "VS Code扩展 用于在VS Code中实时渲染Markdown")
+  - [Markdown Preview Enhanced](https://marketplace.visualstudio.com/items?itemName=shd101wyy.markdown-preview-enhanced "VS Code扩展 Markdown效率化工具")
   - [Prettier - Code formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode "VS Code扩展 用于自动格式化")
 
 ## License
