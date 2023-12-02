@@ -34,7 +34,7 @@
 独立的
 
 科研  
-高尖端科技审查&研发管理署(T2RM)
+高尖端科技审查&研发管理署(HT2RM)
 
 高尖端科技审查&研发管理署 / Department of Hazardous Technical Review and Research Management
 
